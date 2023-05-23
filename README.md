@@ -14,8 +14,5 @@
      * ### Framework Flutter
      * ### State managment Getx
      * ### Database sqllite
-  * ### code design
-     *  #### MVC design pattern
+  
 
-  * ### App Video
-      * #### https://www.linkedin.com/posts/mohamed--elrashidy_flutter-gripdecember22-gripdec22-activity-7007391244012122113-lz7L?utm_source=share&utm_medium=member_desktop
