@@ -1,0 +1,98 @@
+import '../model/customer_model.dart';
+import '../model/transfer_model.dart';
+
+class DummyData {
+
+  static List<Customer> customersList = [
+    Customer(
+        name: "Ashish Yadav",
+        id: "124450",
+        phone: "+91555523343",
+        gender: "male",
+        socialNumber: "743075304752893",
+        dateOfBirth: "16/10/2000",
+        balance: 600,
+        nationality: "Indain"),
+    Customer(
+        name: "Adytia kumar",
+        id: "223451",
+        phone: "+91535523443",
+        gender: "male",
+        socialNumber: "7431235304752893",
+        dateOfBirth: "12/6/2000",
+        balance: 500,
+        nationality: "Indain"),
+    Customer(
+        name: "Aman kumar",
+        id: "324452",
+        phone: "+9155523543",
+        gender: "male",
+        socialNumber: "774675304752893",
+        dateOfBirth: "6/6/2000",
+        balance: 500,
+        nationality: "Indain"),
+    Customer(
+        name: "Ashish kumar",
+        id: "453453",
+        phone: "+9155534443",
+        gender: "male",
+        socialNumber: "723075304752893",
+        dateOfBirth: "12/07/2003",
+        balance: 500,
+        nationality: "Indain"),
+    Customer(
+        name: "Rahul ",
+        id: "153454",
+        phone: "+91554443443",
+        gender: "male",
+        socialNumber: "743075304752233",
+        dateOfBirth: "6/6/2000",
+        balance: 500,
+        nationality: "Indain"),
+    Customer(
+        name: "Dhruv Panth",
+        id: "324855",
+        phone: "+91432523443",
+        gender: "male",
+        socialNumber: "743075474752893",
+        dateOfBirth: "20/10/2004",
+        balance: 500,
+        nationality:"Indain"),
+    Customer(
+        name: "Robin",
+        id: "123426",
+        phone: "+91654552343",
+        gender: "male",
+        socialNumber: "743072304752893",
+        dateOfBirth: "6/6/2000",
+        balance: 500,
+        nationality: "Indain"),
+    Customer(
+        name: "Akash paswan",
+        id: "173457",
+        phone: "+91555578443",
+        gender: "male",
+        socialNumber: "743075344752893",
+        dateOfBirth: "6/6/2000",
+        balance: 500,
+        nationality: "Indain"),
+    Customer(
+        name: "Abshiek",
+        id: "183458",
+        phone: "+201558723443",
+        gender: "male",
+        socialNumber: "743075304342893",
+        dateOfBirth: "6/6/2000",
+        balance: 500,
+        nationality: "Indain"),
+    Customer(
+        name: "Harsh",
+        id: "129459",
+        phone: "+201511152343",
+        gender: "male",
+        socialNumber: "743073404752893",
+        dateOfBirth: "6/6/2000",
+        balance: 500,
+        nationality: "Indain"),
+  ];
+}
